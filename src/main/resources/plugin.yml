@@ -1,0 +1,8 @@
+name: MarioPlugin
+description: マリオ風の機能を追加します
+version: '1.0.0'
+
+main: org.shark.marioPlugin.MarioPlugin
+api-version: '26.1'
+
+authors: [ neko ]
