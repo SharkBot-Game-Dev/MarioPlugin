@@ -10,8 +10,6 @@ import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.PlayerInventory;
 import org.shark.marioPlugin.MarioPlugin;
 
-import java.util.Optional;
-
 public class PlayerSneakToggle implements Listener {
 
     private final MarioPlugin plugin;

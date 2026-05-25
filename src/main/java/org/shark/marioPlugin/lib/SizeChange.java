@@ -1,6 +1,5 @@
 package org.shark.marioPlugin.lib;
 
-import org.bukkit.Effect;
 import org.bukkit.attribute.Attribute;
 import org.bukkit.attribute.AttributeInstance;
 import org.bukkit.entity.LivingEntity;
